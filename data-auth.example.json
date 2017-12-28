@@ -1,10 +1,10 @@
 {
   "menu": [
     {
-      "url": "mxgraph",
+      "url": "examen",
       "icon": "desktop",
       "color": "primary",
-      "label": "mxgraph"
+      "label": "examen"
     }
   ],
   "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwidXNlcl9pZCI6MSwiZW1haWwiOiJhZG1pbkBhZ2V0aWMuZ29iLmJvIiwiZXhwIjoxNDczODQ2MzQyfQ.sLZ736srh8M3T_qN5xz_01CeBQO64cRw611_88vs4ms",

@@ -11,7 +11,7 @@ const Config = angular
   .constant('timeSessionExpired', config.timeSessionExpired) //Tiempo en minutos para que la sesión se cierre automáticamente si existe i$
   .constant('onbeforeunload', config.onbeforeunload)
   .constant('debug', config.debug)
-  .constant('PageNoLogin', ['login']) // Rutas que no requieren autenticación
+  .constant('PageNoLogin', ['login', 'examen']) // Rutas que no requieren autenticación
   .constant('authUrl', `${config.serverAuth}/autenticar/`) // URL para autenticacion
   .constant('apiUrl', `${server}/api/v1/`) // Rest principal del sistema
   .constant('baseUrl', `${server}/`) // Ruta base

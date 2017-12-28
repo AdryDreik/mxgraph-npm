@@ -29,7 +29,7 @@ class AuthService {
             let user = response.data.user;
             let menu = response.data.menu;
             let rol = user.id_rol;
-            data.path = 'mxgraph';
+            data.path = 'examen';
             let pathRedirect = data.path;
             user.pathLogin = data.pathLogin || 'login';
 

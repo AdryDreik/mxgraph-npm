@@ -30,7 +30,7 @@ class AppController {
         if (path.length) {
           this.Storage.set('path', path.replace('/', ''));
         }
-        this.$location.path('login');
+        this.$location.path('examen');
       }
     }
   }

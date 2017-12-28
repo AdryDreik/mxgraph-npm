@@ -1,7 +1,8 @@
 @import '../../../common/styles/sass/_variables.scss';
 
 .no-login {
-    background-color: #2F323A;
+    /* background-color: #2F323A; */
+    background-color: #fcfafa; 
     padding: 0;
     overflow: hidden;
 

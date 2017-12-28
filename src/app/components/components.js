@@ -1,12 +1,12 @@
 'use strict';
 
 import Admin from './admin/admin.module';
-import maxgraph from './mxgraph/mxgraph.module';
+import Examen from './examen/examen.module';
 
 const Components = angular
     .module('app.components', [
         Admin,
-        maxgraph
+        Examen
     ])
     .name;
 
